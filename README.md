@@ -1,7 +1,7 @@
 # Algorithm Visualizer
 
 [![CI](https://github.com/panchatantras/algorithms-visualizer/actions/workflows/ci.yml/badge.svg)](https://github.com/panchatantras/algorithms-visualizer/actions/workflows/ci.yml)
-[![GitHub Pages](https://github.com/panchatantras/algorithms-visualizer/actions/workflows/deploy.yml/badge.svg)](https://panchatantras.github.io/algorithms-visualizer/)
+[![GitHub Pages](https://github.com/panchatantras/algorithms-visualizer/actions/workflows/deploy.yml/badge.svg)](https://panchatantras.github.io/algorithms-visualizer)  
 
 An interactive web app for visualizing data structure and algorithm operations, built with React and Vite.
 
